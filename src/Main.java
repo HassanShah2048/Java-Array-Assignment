@@ -224,8 +224,14 @@ public class Main {
 //        Q18TwoMatrix q18TwoMatrix=new Q18TwoMatrix();
 //        q18TwoMatrix.sumOfTwoMatrix();
 
-        Q19ArrayToArrayList q19ArrayToArrayList=new Q19ArrayToArrayList();
-        q19ArrayToArrayList.convertArrayToArrayList();
+//        Q19ArrayToArrayList q19ArrayToArrayList=new Q19ArrayToArrayList();
+//        q19ArrayToArrayList.convertArrayToArrayList();
+
+//        Q21PairAndSum q21PairAndSum = new Q21PairAndSum();
+//        q21PairAndSum.checkSpacificNumSum();
+
+        Q22Equality q22Equality = new Q22Equality();
+        q22Equality.checkEquality();
 
     }
 }
